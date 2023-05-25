@@ -1,0 +1,20 @@
+#card img{
+    overflow: auto;
+    height: 200px;
+}
+#card2{
+    float: right;
+    height: 40%;
+    width: 80%;
+    margin-right: 130px;
+}
+#para{
+    margin-left: 1%;
+    margin-top: 90px;
+}
+#para h3{
+    color: white;
+}
+#para h4{
+     color: rgb(50, 132, 240);
+}
